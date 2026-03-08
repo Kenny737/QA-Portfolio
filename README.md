@@ -40,5 +40,6 @@
 ---
 
 ## 📫 Контакти
-* **LinkedIn:** [Ваше ім'я або посилання]
-* **Email:** [Ваш email]
+* **LinkedIn:** https://www.linkedin.com/in/ihor-minenko-5982842b5/
+* **Email:** kenny7371meta@gmail.com
+
