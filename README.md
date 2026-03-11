@@ -40,6 +40,6 @@
 ---
 
 ## 📫 Контакти
-* **LinkedIn:** Ihor Minenko
+* **LinkedIn:** www.linkedin.com/in/ihor-minenko-a48701380
 * **Email:** kenny7371meta@gmail.com
 
